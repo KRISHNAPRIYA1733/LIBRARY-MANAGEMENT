@@ -1,0 +1,11 @@
+import datetime
+x=datetime.datetime.now()
+print(x.strftime("%d/%m/%Y"))
+print(x.strftime("%d-%m-%Y"))
+print(x.strftime("%B %d,%Y"))
+print(x.strftime("%Y %b %d"))
+print(x.strftime("%Y %B %d,%H:%M%p"))
+print(x.strftime("%A,%d-%m-%Y"))
+print(x.strftime("%d %B %Y |%H:%S%p"))
+print(x.strftime("%Y/%m/%d %H:%S"))
+print("Today is",x.strftime("%A,the %dnd of %B %Y"))

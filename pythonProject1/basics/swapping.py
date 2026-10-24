@@ -1,0 +1,9 @@
+n=int(input("enter first number:"))
+m=int(input("enter second number:"))
+print("first number=",n)
+print("second number=",m)
+temp=n
+n=m
+m=temp
+print("after swapping first number=",n)
+print("after swapping second number=",m)

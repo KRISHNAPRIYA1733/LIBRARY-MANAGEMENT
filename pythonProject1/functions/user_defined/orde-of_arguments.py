@@ -1,0 +1,1 @@
+def student(name,place,*subjects,**info):

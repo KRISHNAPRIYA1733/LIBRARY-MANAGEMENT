@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CRUD applications/BloodDonorManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUD applications/Employee Management CRUD Application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUD applications/ExpenseManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUD applications/GYM management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/productManagement" vcs="Git" />
+  </component>
+</project>

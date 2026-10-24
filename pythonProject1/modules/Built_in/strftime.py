@@ -1,0 +1,11 @@
+import datetime
+x=datetime.datetime.now()
+print("current date and time:",x)
+print("current month",x.strftime("%B"))
+print("Abrevated month",x.strftime("%b"))
+print("Full weekday name:",x.strftime("%A"))
+print("Abbreviated weekday:",x.strftime("%a"))
+print("Locale’s AM or PM:",x.strftime("%p"))
+print("Year with century ",x.strftime("%Y"))
+print("Year without century ",x.strftime("%y"))
+print(x.strftime("%Y-%m-%d %H:%M:%S"))

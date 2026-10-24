@@ -1,0 +1,4 @@
+File handling in Python is managed using the built-in open() function, which creates a connection
+between your program and a file on your disk. The safest and most common way to manage files is by
+using the with statement. This context manager automatically closes the file when the code block
+finishes executing, preventing resource leaks and data corruption.

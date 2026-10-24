@@ -1,0 +1,12 @@
+a=["python","django"]
+#insert....................................
+a.insert(0,"html")
+print(a)
+a.insert(2,"java")
+print(a)
+#append....................................
+a.append("php")
+print(a)
+#extend....................................
+a.extend(["javascript","css","html"])
+print(a)

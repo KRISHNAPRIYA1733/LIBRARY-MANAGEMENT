@@ -1,0 +1,16 @@
+x=10
+print("The value of x:",x) #x=10
+x+=5
+print("the value of x:",x) #x=15
+x-=2
+print("the value of x:",x) #x=13
+x*=5
+print("the value of x:",x) #x=65
+x/=2
+print("the value of x:",x) #x=32.5
+x//=2
+print("the value of x:",x)  #x=16.0
+x**=3
+print("the value of x:",x)  #x=4096.0
+x%=2
+print("the value of x:",x)  #x=0.0

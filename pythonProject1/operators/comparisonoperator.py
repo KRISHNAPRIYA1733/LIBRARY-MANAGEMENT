@@ -1,0 +1,16 @@
+#n=20
+#comparison operators in python
+#print(n>30)
+#print(n<30)
+#print(n==20)
+#print(n!=20)
+#print(n>=50)
+#print(n<=50)
+n=int(input("enter the first number:"))
+m=int(input("enter the second number:"))
+print(n<m)
+print(n>m)
+print(n>=m)
+print(n<=m)
+print(n==m)
+print(n!=m)

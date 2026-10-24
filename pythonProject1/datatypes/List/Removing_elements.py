@@ -1,0 +1,16 @@
+l=["abc","bcd","lln","ppi","hhd"]
+# del...........
+del l[0]
+print(l)
+# remove()...........
+l.remove("lln")
+print(l)
+# pop()............
+l.pop(0)
+print(l)
+# clear().........
+l.clear()
+print(l)
+# del()..........
+del l
+
